@@ -1,0 +1,324 @@
+[06-Jan-26 11:12:34 - INFO] - bot - Bot Running...!
+
+Created By 
+https://t.me/Madflix_Bots
+[06-Jan-26 11:12:34 - INFO] - bot - ミ💖 MADFLIX BOTZ 💖彡
+[06-Jan-26 11:15:23 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:15:30 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:15:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:37 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:40 - WARNING] - pyrogram.session.session - [Bot] Waiting for 9 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:15:41 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:41 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:41 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:41 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:41 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:41 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:41 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:15:42 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:15:47 - ERROR] - pyrogram.dispatcher - 'FloodWait' object has no attribute 'x'
+Traceback (most recent call last):
+  File "/workspaces/FileSharingBot/plugins/start.py", line 81, in start_command
+    madflix_msg = await msg.copy(chat_id=message.from_user.id, caption = caption, parse_mode = ParseMode.HTML, reply_markup = reply_markup, protect_content=PROTECT_CONTENT)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 3174, in copy
+    return await send_media(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/messages/send_cached_media.py", line 101, in send_cached_media
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.flood_420.FloodWait: Telegram says: [420 FLOOD_WAIT_X] - A wait of 13 seconds is required (caused by "messages.SendMedia")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyromod/listen/message_handler.py", line 98, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/FileSharingBot/plugins/start.py", line 86, in start_command
+    await asyncio.sleep(e.x)
+                        ^^^
+AttributeError: 'FloodWait' object has no attribute 'x'
+[06-Jan-26 11:15:49 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:15:53 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyromod/listen/message_handler.py", line 98, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/FileSharingBot/plugins/start.py", line 97, in start_command
+    add_schedule(message.from_user.id, k.id, [msg.id for msg in madflix_msgs])
+                                              ^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+[06-Jan-26 11:17:42 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:42 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:42 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:42 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:43 - INFO] - bot - Bot Stopped...
+[06-Jan-26 11:17:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:17:51 - INFO] - bot - Bot Running...!
+
+Created By 
+https://t.me/Madflix_Bots
+[06-Jan-26 11:17:51 - INFO] - bot - ミ💖 MADFLIX BOTZ 💖彡
+[06-Jan-26 11:21:02 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:02 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:02 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:02 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:02 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:02 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:03 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:04 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:05 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:21:13 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 242, in handler_worker
+    await self.loop.run_in_executor(
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/sync.py", line 78, in async_to_sync_wrap
+    return asyncio.run_coroutine_threadsafe(coroutine, main_loop).result()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyromod/listen/message_handler.py", line 98, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/FileSharingBot/plugins/start.py", line 98, in start_command
+    add_schedule(message.from_user.id, k.id, [msg.id for msg in madflix_msgs])
+                                              ^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+[06-Jan-26 11:23:08 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[06-Jan-26 11:23:09 - INFO] - bot - Bot Stopped...
+[06-Jan-26 11:23:15 - INFO] - bot - Bot Running...!
+
+Created By 
+https://t.me/Madflix_Bots
+[06-Jan-26 11:23:15 - INFO] - bot - ミ💖 MADFLIX BOTZ 💖彡
+[06-Jan-26 11:24:26 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:24:33 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:24:39 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:39 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:39 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:39 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:39 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:39 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:40 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:24:41 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:24:45 - WARNING] - pyrogram.session.session - [Bot] Waiting for 8 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:24:53 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:33:23 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:33:29 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:35 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:33:36 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:33:40 - WARNING] - pyrogram.session.session - [Bot] Waiting for 9 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:33:49 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:34:06 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:34:14 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:19 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.types.messages_and_media.message - Empty messages cannot be copied.
+[06-Jan-26 11:34:20 - WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
+[06-Jan-26 11:34:24 - WARNING] - pyrogram.session.session - [Bot] Waiting for 8 seconds before continuing (required by "messages.SendMedia")

@@ -79,16 +79,18 @@ async def start_command(client: Client, message: Message):
 
             try:
                 madflix_msg = await msg.copy(chat_id=message.from_user.id, caption = caption, parse_mode = ParseMode.HTML, reply_markup = reply_markup, protect_content=PROTECT_CONTENT)
-                # await asyncio.sleep(0.5)
-                madflix_msgs.append(madflix_msg)
                 
             except FloodWait as e:
                 await asyncio.sleep(e.x)
                 madflix_msg = await msg.copy(chat_id=message.from_user.id, caption = caption, parse_mode = ParseMode.HTML, reply_markup = reply_markup, protect_content=PROTECT_CONTENT)
-                madflix_msgs.append(madflix_msg)
                 
             except:
-                pass
+                madflix_msg = None
+
+            if madflix_msg:
+                madflix_msgs.append(madflix_msg)
+            
+            await asyncio.sleep(0.5)
 
 
         k = await client.send_message(chat_id = message.from_user.id, text=f"<b>❗️ <u>IMPORTANT</u> ❗️</b>\n\nThis Video / File Will Be Deleted In {file_auto_delete} (Due To Copyright Issues).\n\n📌 Please Forward This Video / File To Somewhere Else And Start Downloading There.")
